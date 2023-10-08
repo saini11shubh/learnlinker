@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/learnlinker.github.io/static/css/main.7f150628.chunk.css",
-    "main.js": "/learnlinker.github.io/static/js/main.85b429f3.chunk.js",
-    "main.js.map": "/learnlinker.github.io/static/js/main.85b429f3.chunk.js.map",
-    "runtime-main.js": "/learnlinker.github.io/static/js/runtime-main.1a505f07.js",
-    "runtime-main.js.map": "/learnlinker.github.io/static/js/runtime-main.1a505f07.js.map",
-    "static/js/2.d8eb43be.chunk.js": "/learnlinker.github.io/static/js/2.d8eb43be.chunk.js",
-    "static/js/2.d8eb43be.chunk.js.map": "/learnlinker.github.io/static/js/2.d8eb43be.chunk.js.map",
-    "index.html": "/learnlinker.github.io/index.html",
-    "precache-manifest.b0f40726c982e06ba136cba24fe80762.js": "/learnlinker.github.io/precache-manifest.b0f40726c982e06ba136cba24fe80762.js",
-    "service-worker.js": "/learnlinker.github.io/service-worker.js",
-    "static/css/main.7f150628.chunk.css.map": "/learnlinker.github.io/static/css/main.7f150628.chunk.css.map",
-    "static/js/2.d8eb43be.chunk.js.LICENSE.txt": "/learnlinker.github.io/static/js/2.d8eb43be.chunk.js.LICENSE.txt"
+    "main.css": "/learnlinker/static/css/main.7f150628.chunk.css",
+    "main.js": "/learnlinker/static/js/main.85b429f3.chunk.js",
+    "main.js.map": "/learnlinker/static/js/main.85b429f3.chunk.js.map",
+    "runtime-main.js": "/learnlinker/static/js/runtime-main.0f879001.js",
+    "runtime-main.js.map": "/learnlinker/static/js/runtime-main.0f879001.js.map",
+    "static/js/2.d8eb43be.chunk.js": "/learnlinker/static/js/2.d8eb43be.chunk.js",
+    "static/js/2.d8eb43be.chunk.js.map": "/learnlinker/static/js/2.d8eb43be.chunk.js.map",
+    "index.html": "/learnlinker/index.html",
+    "precache-manifest.917d1c39886869fdd22f46311f538c4e.js": "/learnlinker/precache-manifest.917d1c39886869fdd22f46311f538c4e.js",
+    "service-worker.js": "/learnlinker/service-worker.js",
+    "static/css/main.7f150628.chunk.css.map": "/learnlinker/static/css/main.7f150628.chunk.css.map",
+    "static/js/2.d8eb43be.chunk.js.LICENSE.txt": "/learnlinker/static/js/2.d8eb43be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a505f07.js",
+    "static/js/runtime-main.0f879001.js",
     "static/js/2.d8eb43be.chunk.js",
     "static/css/main.7f150628.chunk.css",
     "static/js/main.85b429f3.chunk.js"
